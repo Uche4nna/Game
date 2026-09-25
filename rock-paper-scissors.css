@@ -1,0 +1,36 @@
+      body{
+        font-family: Arial;
+        background-color:rgb(25, 25, 25 );
+        color: whitesmoke;
+        font-weight: solid;
+
+      }
+      .move{
+        background-color:transparent;
+        border: 3px solid white;
+        width:120px ; 
+        height: 120px;
+        border-radius: 60px;
+        margin-right: 20px;
+        cursor: pointer;
+      }
+      .icon{
+        height: 50px;
+      }
+      .result{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: 50px;
+      }
+      .score{
+        margin-top: 60px;
+      }
+      .resert{
+        background-color: orange;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 30px;
+        padding-left: 30px;
+        border-color: green;
+        border-radius: 10px;
+      }
