@@ -55,8 +55,8 @@
         
         document.querySelector('.js-result').innerHTML=result;
         document.querySelector('.js-moves').innerHTML=` You:  
-      <img src="${chika}-emoji.png " class="icon">
-      <img src="${computermove}-emoji.png " class="icon">
+      <img src="${chika.toLowerCase()}-emoji.png" class="icon">
+      <img src="${computermove.toLowerCase()}-emoji.png" class="icon">
       computer`;
  
     }
